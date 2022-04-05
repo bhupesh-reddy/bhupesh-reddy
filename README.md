@@ -1,6 +1,6 @@
 ## Hi!!
 
-### I’m Bhupesh Sainath Reddy Challa but i prefer people call me Bhupesh or Sai 👋 
+##### I’m Bhupesh Sainath Reddy Challa but i prefer people call me Bhupesh or Sai 👋 
 
 - I admire the value of data and usability in Banking sector,Healthcare,Financial analysis(stocks predictions),Telecomminication and many more. I'm intrested in working with data and extaract the valuable information from the data.
 
